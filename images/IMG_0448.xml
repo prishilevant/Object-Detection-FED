@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>IMG_0448.JPEG</filename>
+	<path>C:\Users\priya\OneDrive\Desktop\Images\IMG_0448.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>buttons</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>724</ymin>
+			<xmax>1447</xmax>
+			<ymax>1821</ymax>
+		</bndbox>
+	</object>
+</annotation>

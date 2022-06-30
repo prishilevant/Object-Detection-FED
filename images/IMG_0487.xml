@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>IMG_0487.JPEG</filename>
+	<path>C:\Users\priya\OneDrive\Desktop\Images\IMG_0487.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>automatic door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>440</ymin>
+			<xmax>898</xmax>
+			<ymax>897</ymax>
+		</bndbox>
+	</object>
+</annotation>
