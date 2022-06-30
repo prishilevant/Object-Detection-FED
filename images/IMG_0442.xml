@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>IMG_0442.JPEG</filename>
+	<path>C:\Users\priya\OneDrive\Desktop\Images\IMG_0442.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>495</ymin>
+			<xmax>1263</xmax>
+			<ymax>1462</ymax>
+		</bndbox>
+	</object>
+</annotation>

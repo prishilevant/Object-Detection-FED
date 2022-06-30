@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>IMG_0513.JPEG</filename>
+	<path>C:\Users\priya\OneDrive\Desktop\Images\IMG_0513.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>556</ymin>
+			<xmax>1382</xmax>
+			<ymax>1593</ymax>
+		</bndbox>
+	</object>
+</annotation>

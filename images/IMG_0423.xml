@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>IMG_0423.JPEG</filename>
+	<path>C:\Users\priya\OneDrive\Desktop\Images\IMG_0423.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1330</width>
+		<height>2364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>1178</ymin>
+			<xmax>714</xmax>
+			<ymax>2144</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>IMG_0415.JPEG</filename>
+	<path>C:\Users\priya\OneDrive\Desktop\Images\IMG_0415.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1330</width>
+		<height>2364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>336</ymin>
+			<xmax>969</xmax>
+			<ymax>1846</ymax>
+		</bndbox>
+	</object>
+</annotation>
